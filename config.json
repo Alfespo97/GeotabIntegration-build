@@ -1,0 +1,14 @@
+{
+"name": "Minervas Post-Trip",
+	"supportEmail": "ea.adinolfi@minervas.it",
+	"version": "1.0.0",
+	"items": [
+		{
+      "url": "https://cdn.jsdelivr.net/gh/Alfespo97/GeotabIntegration-build@master/minervas.html",
+      "path": "ProductivityId/",
+      "menuName": {
+        "en": "Minervas add-in"
+      }
+      
+    }]
+  }
